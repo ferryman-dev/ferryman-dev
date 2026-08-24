@@ -4,5 +4,5 @@ Also exploring low-level programming with Assembly
 
 
 <p align="center">
-  <img src="./assets/baner.jpg" alt="Banner">
+  <img src="./assets/banner.jpg" alt="Banner">
 </p>
